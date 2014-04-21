@@ -51,5 +51,6 @@ http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for
 TODO
 ----
 
+* Buildozer spec
 * Sphinx docs
 * CI testing

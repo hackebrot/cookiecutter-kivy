@@ -22,15 +22,22 @@ Create a new app via::
 Features
 --------
 
+* GPL v2 license
+* Customized README
+* Python gitignore
+
+Get started easily
+~~~~~~~~~~~~~~~~~~
+
 Launch the newly created app via::
 
     cd project_directory
     python main.py
 
-Tests
-~~~~~
+Testsuite included
+~~~~~~~~~~~~~~~~~~
 
-Run its testsuite either with Python3::
+Run its tests either with Python3::
 
     cd project_directory
     python -m unittest discover
@@ -46,7 +53,6 @@ Deployment-ready
 The app is ready for deployment to kivy launcher on Android.
 
 http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for-the-kivy-launcher
-
 
 TODO
 ----

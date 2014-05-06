@@ -2,7 +2,7 @@
 cookiecutter-kivy
 =================
 
-Cookiecutter template for applications built upon the kivy-framework.
+Cookiecutter template for NUI applications built upon the kivy python-framework.
 
 Related
 -------

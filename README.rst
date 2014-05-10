@@ -10,6 +10,7 @@ Related
 * cookiecutter - https://github.com/audreyr/cookiecutter
 * kivy - https://github.com/kivy/kivy
 * nose - https://github.com/nose-devs/nose/
+* py.test - http://pytest.org/latest/
 
 Usage
 -----

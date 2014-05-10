@@ -35,6 +35,11 @@ Or with nose::
     cd {{ cookiecutter.repo_name }} 
     nosetests
 
+Or with py.test::
+
+    cd {{ cookiecutter.repo_name }}
+    py.test
+
 Deploying to Android
 ~~~~~~~~~~~~~~~~~~~~
 

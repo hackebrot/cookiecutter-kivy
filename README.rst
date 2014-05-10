@@ -47,6 +47,11 @@ Or with nose::
     cd project_directory
     nosetests
 
+Or with py.test
+
+    cd project_directory
+    py.test
+
 Deployment-ready
 ~~~~~~~~~~~~~~~~
 

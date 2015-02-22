@@ -11,14 +11,6 @@ License
 Distributed under the terms of the `MIT license`_, cookiecutter-kivy is free and open source software
 
 
-Related
--------
-
-* cookiecutter - https://github.com/audreyr/cookiecutter
-* kivy - https://github.com/kivy/kivy
-* nose - https://github.com/nose-devs/nose/
-* py.test - http://pytest.org/latest/
-
 Usage
 -----
 
@@ -50,12 +42,12 @@ Run its tests either with Python3::
     cd project_directory
     python -m unittest discover
 
-Or with nose::
+Or with `nose`_::
 
     cd project_directory
     nosetests
 
-Or with py.test::
+Or with `py.test`_::
 
     cd project_directory
     py.test
@@ -74,7 +66,8 @@ TODO
 * Sphinx docs
 * CI testing
 
-
 .. _`Cookiecutter`: https://github.com/audreyr/cookiecutter
 .. _`Kivy`: https://github.com/kivy/kivy
 .. _`MIT License`: http://opensource.org/licenses/MIT
+.. _`nose`: https://github.com/nose-devs/nose/
+.. _`py.test`: http://pytest.org/latest/

@@ -29,12 +29,12 @@ Run its testsuite either with Python3::
     cd {{ cookiecutter.repo_name }} 
     python -m unittest discover
 
-Or with nose::
+Or with `nose`_::
 
     cd {{ cookiecutter.repo_name }} 
     nosetests
 
-Or with py.test::
+Or with `py.test`_::
 
     cd {{ cookiecutter.repo_name }}
     py.test
@@ -61,3 +61,5 @@ Report bugs at https://github.com/{{ cookiecutter.github_username }}/{{ cookiecu
 
 .. _`Kivy`: https://github.com/kivy/kivy
 .. _`MIT License`: http://opensource.org/licenses/MIT
+.. _`nose`: https://github.com/nose-devs/nose/
+.. _`py.test`: http://pytest.org/latest/

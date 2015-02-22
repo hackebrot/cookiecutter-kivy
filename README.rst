@@ -2,7 +2,7 @@
 cookiecutter-kivy
 =================
 
-Cookiecutter template for NUI applications built upon the kivy python-framework.
+`Cookiecutter`_ template for NUI applications built upon the `Kivy`_ python-framework.
 
 
 License
@@ -75,4 +75,6 @@ TODO
 * CI testing
 
 
+.. _`Cookiecutter`: https://github.com/audreyr/cookiecutter
+.. _`Kivy`: https://github.com/kivy/kivy
 .. _`MIT License`: http://opensource.org/licenses/MIT

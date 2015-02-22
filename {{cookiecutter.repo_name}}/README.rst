@@ -16,7 +16,7 @@ Usage
 Launching the app
 ~~~~~~~~~~~~~~~~~
 
-Kivy is compatible with Python2 as well as Python3::
+`Kivy`_ is compatible with Python2 as well as Python3::
 
     cd {{ cookiecutter.repo_name }} 
     python main.py
@@ -59,4 +59,5 @@ Issues
 Report bugs at https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/issues.
 
 
+.. _`Kivy`: https://github.com/kivy/kivy
 .. _`MIT License`: http://opensource.org/licenses/MIT

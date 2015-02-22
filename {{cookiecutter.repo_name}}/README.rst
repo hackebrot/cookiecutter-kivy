@@ -4,7 +4,6 @@
 
 {{ cookiecutter.project_short_description}}
 
-* GPL v2
 
 Features
 --------

@@ -30,7 +30,7 @@ Create a new app via::
 Features
 --------
 
-* GPL v2 license
+* `MIT license`_ file
 * Customized README
 * Python gitignore
 

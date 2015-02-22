@@ -47,7 +47,17 @@ You can easily run the app on Android by using the kivy launcher. See:
 
 http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for-the-kivy-launcher
 
+
+License
+-------
+
+Distributed under the terms of the `MIT license`_, {{cookiecutter.repo_name}} free and open source software
+
+
 Issues
 ------
 
 Report bugs at https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/issues.
+
+
+.. _`MIT License`: http://opensource.org/licenses/MIT

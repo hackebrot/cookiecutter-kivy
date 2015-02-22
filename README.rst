@@ -4,6 +4,13 @@ cookiecutter-kivy
 
 Cookiecutter template for NUI applications built upon the kivy python-framework.
 
+
+License
+-------
+
+Distributed under the terms of the `MIT license`_, cookiecutter-kivy is free and open source software
+
+
 Related
 -------
 
@@ -66,3 +73,6 @@ TODO
 * Buildozer spec
 * Sphinx docs
 * CI testing
+
+
+.. _`MIT License`: http://opensource.org/licenses/MIT

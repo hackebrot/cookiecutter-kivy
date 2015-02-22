@@ -5,10 +5,12 @@ cookiecutter-kivy
 `Cookiecutter`_ template for NUI applications built upon the `Kivy`_ python-framework.
 
 
-License
--------
+Features
+--------
 
-Distributed under the terms of the `MIT license`_, cookiecutter-kivy is free and open source software
+* `MIT license`_ file
+* Customized README
+* Python gitignore
 
 
 Usage
@@ -19,13 +21,6 @@ Create a new app via::
     cookiecutter https://github.com/hackebrot/cookiecutter-kivy.git
 
 
-Features
---------
-
-* `MIT license`_ file
-* Customized README
-* Python gitignore
-
 Get started easily
 ~~~~~~~~~~~~~~~~~~
 
@@ -33,6 +28,7 @@ Launch the newly created app via::
 
     cd project_directory
     python main.py
+
 
 Testsuite included
 ~~~~~~~~~~~~~~~~~~
@@ -52,6 +48,7 @@ Or with `py.test`_::
     cd project_directory
     py.test
 
+
 Deployment-ready
 ~~~~~~~~~~~~~~~~
 
@@ -59,12 +56,18 @@ The app is ready for deployment to kivy launcher on Android.
 
 http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for-the-kivy-launcher
 
-TODO
-----
 
-* Buildozer spec
-* Sphinx docs
-* CI testing
+License
+-------
+
+Distributed under the terms of the `MIT license`_, cookiecutter-kivy is free and open source software
+
+
+Issues
+------
+
+Report bugs at https://github.com/hackebrot/cookiecutter-kivy/issues.
+
 
 .. _`Cookiecutter`: https://github.com/audreyr/cookiecutter
 .. _`Kivy`: https://github.com/kivy/kivy

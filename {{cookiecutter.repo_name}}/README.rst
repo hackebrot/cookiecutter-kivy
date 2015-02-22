@@ -17,7 +17,7 @@ Usage
 Launching the app
 ~~~~~~~~~~~~~~~~~
 
-`Kivy`_ is compatible with Python2 as well as Python3::
+`Kivy`_ is compatible with Python 2 as well as Python 3::
 
     cd {{ cookiecutter.repo_name }} 
     python main.py
@@ -43,9 +43,7 @@ Or with `py.test`_::
 Deploying to Android
 ~~~~~~~~~~~~~~~~~~~~
 
-You can easily run the app on Android by using the kivy launcher. See:
-
-http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for-the-kivy-launcher
+You can easily run the app on Android by using the `Kivy Launcher`_.
 
 
 License
@@ -60,6 +58,7 @@ Issues
 Report bugs at https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/issues.
 
 
+.. _`Kivy Launcher`: http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for-the-kivy-launcher
 .. _`Kivy`: https://github.com/kivy/kivy
 .. _`MIT License`: http://opensource.org/licenses/MIT
 .. _`nose`: https://github.com/nose-devs/nose/

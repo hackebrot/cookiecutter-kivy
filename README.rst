@@ -33,7 +33,7 @@ Launch the newly created app via::
 Testsuite included
 ~~~~~~~~~~~~~~~~~~
 
-Run its tests either with Python3::
+Run its tests either with Python 3::
 
     cd project_directory
     python -m unittest discover
@@ -52,9 +52,8 @@ Or with `py.test`_::
 Deployment-ready
 ~~~~~~~~~~~~~~~~
 
-The app is ready for deployment to kivy launcher on Android.
+The app is ready for deployment to `Kivy Launcher`_ on Android.
 
-http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for-the-kivy-launcher
 
 
 License
@@ -70,6 +69,7 @@ Report bugs at https://github.com/hackebrot/cookiecutter-kivy/issues.
 
 
 .. _`Cookiecutter`: https://github.com/audreyr/cookiecutter
+.. _`Kivy Launcher`: http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for-the-kivy-launcher
 .. _`Kivy`: https://github.com/kivy/kivy
 .. _`MIT License`: http://opensource.org/licenses/MIT
 .. _`nose`: https://github.com/nose-devs/nose/

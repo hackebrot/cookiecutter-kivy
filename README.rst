@@ -2,7 +2,9 @@
 cookiecutter-kivy
 =================
 
-`Cookiecutter`_ template for NUI applications built upon the `Kivy`_ python-framework.
+Basic `Cookiecutter`_ template for NUI applications built upon the `Kivy`_ python-framework.
+
+For a feature-rich `Kivy`_ app template please check out `Cookiedozer`_.
 
 
 Features
@@ -69,6 +71,7 @@ Report bugs at https://github.com/hackebrot/cookiecutter-kivy/issues.
 
 
 .. _`Cookiecutter`: https://github.com/audreyr/cookiecutter
+.. _`Cookiedozer`: https://github.com/hackebrot/cookiedozer
 .. _`Kivy Launcher`: http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for-the-kivy-launcher
 .. _`Kivy`: https://github.com/kivy/kivy
 .. _`MIT License`: http://opensource.org/licenses/MIT

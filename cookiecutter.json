@@ -8,5 +8,6 @@
     "release_date": "2014-05-15",
     "year": "2014",
     "version": "0.1.0",
-    "minimum_kivy_version": "1.8.0"
+    "minimum_kivy_version": "1.8.0",
+    "orientation": ["all", "landscape", "portrait"]
 }

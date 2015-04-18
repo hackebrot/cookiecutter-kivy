@@ -3,7 +3,7 @@
     "email": "raphael@hackebrot.de",
     "github_username": "hackebrot",
     "project_name": "Kivy Project",
-    "repo_name": "kivyproject",
+    "repo_name": "{{cookiecutter.project_name|lower|replace(' ', '-')}}",
     "project_short_description": "Cookiecutter template for applications built upon the kivy-framework.",
     "release_date": "2014-05-15",
     "year": "2014",

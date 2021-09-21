@@ -2,6 +2,8 @@
 cookiecutter-kivy
 =================
 
+**Please note that this project is no longer actively maintained.** 🚧
+
 Basic `Cookiecutter`_ template for NUI applications built upon the `Kivy`_ python-framework.
 
 For a feature-rich `Kivy`_ app template please check out `Cookiedozer`_.
